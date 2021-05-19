@@ -1,8 +1,7 @@
 {
   "scripts": {
-    "start": "snowpack dev",
-    "build": "snowpack build",
-    "test": "echo \"This template does not include a test runner by default.\" && exit 1"
+    "dev": "snowpack dev",
+    "build": "snowpack build"
   },
   "devDependencies": {
     "snowpack": "^3.0.1"
